@@ -52,9 +52,9 @@
 
                  &mkp LCLK                                                                                          &mkp RCLK
     &kp CLCK                &kp LGUI                            &mkp LCLK                          &mt ESC K_BACK                    &kp TAB
-    &mt LSHFT Q        &mt LSHFT W      &mt LSHFT E       &mt LSHFT R     &mt LSHFT T         &mt LSHFT Y             &mt LSHFT U            &mt LSHFT I            &mt LSHFT O            &mt LSHFT P
-    &mt LSHFT A        &mt LSHFT S      &mt LSHFT D       &mt LSHFT F     &mt LSHFT G         &mt LSHFT H             &mt LSHFT J            &mt LSHFT K            &mt LSHFT L            &kp BSPC
-    &sl SYM      &mt LSHFT Z      &mt LSHFT X       &mt LSHFT C     &mt LSHFT V         &mt LSHFT B             &mt LSHFT N            &mt LSHFT M            &kp LCTRL        &kp ENTER
+    &kp Q        &kp W      &kp E       &kp R     &kp T         &kp Y             &kp U            &kp I            &kp O            &kp P
+    &kp A        &kp S      &kp D       &kp F     &kp G         &kp H             &kp J            &kp K            &kp L            &kp BSPC
+    &sl SYM      &kp Z      &kp X       &kp C     &kp V         &kp B             &kp N            &kp M            &kp LCTRL        &kp ENTER
     &sk LSHFT               &kp LALT                            &kp SPACE                          &tog SYM                          &tog UPPER
             >;
         };
