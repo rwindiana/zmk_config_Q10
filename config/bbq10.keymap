@@ -79,7 +79,7 @@
     &bt BT_SEL 0            &bt BT_SEL 1                             &td0                           &bt BT_SEL 2                     &bt BT_SEL 3
     &none        &kp UP     &none       &sys_reset &ext_power EP_TOG &none         &kp LT           &kp GT          &kp PIPE         &kp KP_EQUAL
     &kp LEFT     &kp DOWN   &kp RIGHT   &none      &kp BSLH          &kp AMPS      &kp LBRC         &kp RBRC        &kp CARET        &kp BSPC
-    &sl SYM      &none      &kp C_BRI_DN      &kp C_BRI_UP      &bl BL_DEC        &bl BL_TOG    &bl BL_INC       &none           &bootloader      &kp ENTER
+    &sl SYM      &kp C_BRI_DN      &kp C_BRI_UP      &bl BL_DEC        &bl BL_TOG    &bl BL_INC       &none           &bootloader      &kp ENTER
     &sk LSHFT               &kp LALT                                 &hm OUT_TOG SPACE              &tog SYM                         &tog UPPER
             >;
         };
